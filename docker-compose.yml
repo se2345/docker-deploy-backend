@@ -3,4 +3,4 @@ services:
   frontend:
     image: pharanyxx/234-deploylab-backend:latest
     ports:
-      - "8086:8080"
+      - "8085:8080"
